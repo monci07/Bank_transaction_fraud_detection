@@ -55,7 +55,7 @@ The dataset consists of a comprehensive collection of bank transaction records, 
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/bank-fraud-detection.git
+   git clone https://github.com/your-username/Bank_transaction_fraud_detection.git
    ```
 2. Install dependencies
    ```bash

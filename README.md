@@ -67,7 +67,7 @@ The dataset consists of a comprehensive collection of bank transaction records, 
 
 ## 📌 Status
 
-🔄 In progress — EDA and preprocessing phase
+🔄 In progress — Model testing
 
 ---
 
